@@ -28,13 +28,13 @@ hostname nodejs-vagrant
 /vagrant/sh/redis.sh
 
 # GitHub repositories:
-/vagrant/sh/github.sh
+#/vagrant/sh/github.sh
 
 # Travis-CI toolbelt:
-/vagrant/sh/travis.sh
+#/vagrant/sh/travis.sh
 
 # Heroku toolbelt (NOTE: after Travis-CI due to Ruby removal/reinstall):
-/vagrant/sh/heroku.sh
+#/vagrant/sh/heroku.sh
 
 # Vim settings:
 /vagrant/sh/vim.sh
